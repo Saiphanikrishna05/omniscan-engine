@@ -1,0 +1,12 @@
+*.pth
+weights/
+__pycache__/
+node_modules/
+.env
+weights/
+*.pth
+node_modules/
+__pycache__/
+venv/
+.env
+.DS_Store

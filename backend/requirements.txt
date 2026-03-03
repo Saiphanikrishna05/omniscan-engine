@@ -1,0 +1,18 @@
+# AI and Math Libraries
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.2.1+cpu
+torchvision==0.17.1+cpu
+torchaudio==2.2.1+cpu
+numpy
+librosa
+
+# Vision and Image Processing
+opencv-python-headless
+Pillow
+facenet-pytorch
+grad-cam
+
+# Web Server
+fastapi
+uvicorn
+python-multipart
