@@ -12,6 +12,7 @@
   "dependencies": {
     "@tailwindcss/vite": "^4.2.1",
     "framer-motion": "^12.34.3",
+    "html2pdf.js": "^0.14.0",
     "lucide-react": "^0.575.0",
     "motion": "^12.34.3",
     "react": "^19.2.0",
